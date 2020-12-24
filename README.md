@@ -37,4 +37,6 @@
 
 <li> <a  href='https://numpy.org/doc/stable/user/quickstart.html'> <b> <i> Numpy </i> </b> </a> </li>
 </ol>
-
+<sub> Проект по предмету "Языки и методы программирования" 2 курс </sub>
+<br>
+<sub> Последнее обновление: 24.12.2020 </sub>
