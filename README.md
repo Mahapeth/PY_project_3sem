@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3.8-9cf" width="100" alt="Python 3.8"> <img src="https://img.shields.io/badge/Version-0.0.1-9cf" width="120" alt="Version 0.0.1">
 
 <p align="center">
-    <img src="https://github.com/Mahapeth/PY_project_3sem/blob/master/video%20of%20programm.gif" width="350" alt="Video of programm">
+    <img src="https://github.com/Mahapeth/PY_project_3sem/blob/master/video%20of%20programm.gif" width="450" alt="Video of programm">
 </p>
 
 <h3> <i> 🐍 Проект  по предмету "Языки и методы программирования" выполнили обучающиеся 2 курса на направлении прикладная математика и информатика: 🐍 </i> </h3>
